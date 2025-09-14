@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @hasithdd
-- 👀 I’m interested in Nothing
-- 🌱 I’m currently learning Nothing
+- 👋 Hi, I’m @hasithdd working at Codegen International
+- 👀 Dont judge a person by his personal github account only.Just go to my linkedin profile
 - 📫 How to reach me - Dont reach me but follow me on linkedin : https://www.linkedin.com/in/hasith-vikasitha/
-- ⚡ Fun fact: No FUN 
+- ⚡ Fun fact: hate you
 
 <!---
 hasithdd/hasithdd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
