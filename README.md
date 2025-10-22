@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @d_rulz
-- 👀 Dont look at my codes
+- 👀 Dont judge a person by his github account.
 
 <!---
 hasithdd/hasithdd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
