@@ -20,10 +20,6 @@ My focus is on building and deploying high-performance, low-latency models. I ha
 
 **Trainee AI Engineer @ Vega Innovations**
 
-* Designed and deployed an end-to-end **voice agent pipeline** for the **Unitree GO2 robot** on NVIDIA Jetson. This system features real-time, context-aware dialogue using RAG.
-* Implemented and optimized real-time **face recognition** (running at 30 FPS) and developed a custom voice ID system with wake-up mechanisms for robust human-robot interaction.
-* Researched and implemented Edge AI optimizations for a vehicle recognition system (VelloPass), containerizing the full pipeline with Docker for a scalable CI/CD workflow.
-
 ## Certifications
 
 * **Generative AI**:
