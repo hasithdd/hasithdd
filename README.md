@@ -1,83 +1,58 @@
-# 👋 Hi, I'm Hasith - AI/ML Engineer & Researcher
+# 👋 Hi, I'm Hasith V. Dharmarathna
 
 <div align="center">
-  
-![AI/ML](https://img.shields.io/badge/AI%2FML-Engineer-blue?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep-Learning-red?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer-Vision-green?style=for-the-badge)
+  
+![Generative AI](https://img.shields.io/badge/Generative_AI-Specialist-blue?style=for-the-badge)
+![Voice Agents](https://img.shields.io/badge/Voice_AI-Agents-red?style=for-the-badge)
+![Edge AI](https://img.shields.io/badge/NVIDIA_Jetson-Edge_AI-green?style=for-the-badge)
 
 </div>
 
-## 🎓 About Me
+## About Me
 
-Double degree holder specializing in **Artificial Intelligence** and **Machine Learning** with a strong foundation in **mathematics** and **statistics**. I'm passionate about building intelligent systems that solve real-world problems through advanced machine learning techniques, computer vision, and deep learning architectures.
+I'm an AI/ML Engineer from Sri Lanka 🇱🇰 with a strong foundation in **Mathematics, Statistics, and Computer Science**. I'm currently pursuing dual degrees in **Applied Mathematics, Statistics & CS** (University of Colombo) and **Computer Science** (Informatics Institute of Technology).
 
-## 🔬 Core Competencies
+My passion is building and deploying **agentic systems** and **intelligent voice AI**. I have hands-on experience in optimizing and deploying real-time, low-latency models on **NVIDIA Jetson** devices, bridging the gap between cutting-edge research and practical, high-performance applications.
 
-### Machine Learning & AI
-- **Deep Learning**: Neural Networks, CNNs (Convolutional Neural Networks), RNNs (Recurrent Neural Networks), LSTMs (Long Short-Term Memory), Transformers
-- **Computer Vision**: Object Detection, Image Classification, Real-time Video Processing
-- **Natural Language Processing**: Text Generation, Language Models, Speech Processing
-- **Model Optimization**: Quantization, Pruning, Knowledge Distillation
-- **MLOps**: Model Deployment, API Development, Production Systems
+## 🔬 Core Technical Skills
 
-### Mathematical & Statistical Foundation
-- **Linear Algebra**: Matrix Operations, Eigenvalues, SVD (Singular Value Decomposition)
-- **Calculus**: Gradient Descent, Optimization Theory
-- **Probability & Statistics**: Bayesian Inference, Hypothesis Testing, Distribution Analysis
-- **Numerical Methods**: Optimization Algorithms, Computational Statistics
+-   **Agentic AI**: LangChain, LangGraph, RAGs, Vector Databases
+-   **Voice AI**: Real-time Voice Pipelines, LiveKit, OpenAI SDK, TTS
+-   **Edge AI**: **NVIDIA Jetson** (Nano, Xavier, Orin), **TensorRT**, ONNX
+-   **Frameworks**: PyTorch, Hugging Face, FastAPI
+-   **MLOps**: Docker, GitHub Actions
 
-### Technical Stack
-```
-Languages:     Python, C++, Java, JavaScript
-Frameworks:    PyTorch, TensorFlow, Keras, FastAPI, OpenCV
-Tools:         Docker, Git, Jupyter, MLflow, TensorBoard
-Cloud:         AWS, GCP, Azure ML
-Databases:     PostgreSQL, MongoDB, Redis
-```
+## 🚀 Professional Highlights
 
-## 🚀 Featured Projects
+**Trainee AI Engineer @ Vega Innovations**
+-   Designed and deployed an end-to-end **voice agent pipeline** for the **Unitree GO2 robot** on NVIDIA Jetson, enabling real-time, context-aware RAG dialogues.
+-   Optimized a **real-time face recognition** model (30 FPS) and implemented custom voice ID with wake-up mechanisms for robust human-robot interaction.
+-   Researched and implemented Edge AI optimizations for a vehicle recognition system (VelloPass), containerizing the full pipeline with Docker for a scalable CI/CD workflow.
 
-### [DriveEye](https://github.com/hasithdd/DriveEye) 🚗👁️
-**Real-time Driver Drowsiness Detection System**
-- Developed an advanced computer vision system for detecting driver fatigue in real-time
-- Implemented deep learning models for facial landmark detection and eye aspect ratio calculation
-- Achieved high accuracy in drowsiness classification using CNN architectures
-- Technologies: OpenCV, TensorFlow, Dlib, Real-time Video Processing
-- **Impact**: Enhances road safety by alerting drivers before microsleep episodes
+## 🎓 Certifications
 
-### [Neutts-FastAPI](https://github.com/hasithdd/Neutts-FastAPI) 🎙️⚡
-**FastAPI Wrapper for NeuTTS with OpenAI Compatibility**
-- Created a production-ready FastAPI wrapper for Neural Text-to-Speech systems
-- Implemented OpenAI-compatible API endpoints for seamless integration
-- Optimized for low-latency inference with async processing
-- Technologies: FastAPI, PyTorch, Neural TTS, REST API
-- **Impact**: Enables developers to easily integrate high-quality TTS in their applications
-
-## 💡 Research Interests
-
-- 🧠 Neural Architecture Search & AutoML
-- 👁️ Computer Vision & Image Processing
-- 🗣️ Speech Processing & Audio AI
-- 🎯 Reinforcement Learning & Decision Systems
-- 📊 Statistical Machine Learning & Probabilistic Models
+-   **Generative AI**:
+    -   Generative AI with Large Language Models *(DeepLearning.AI)*
+    -   RAG *(DeepLearning.AI)*
+    -   Building Live Voice Agents *(DeepLearning.AI)*
+    -   Vector Databases *(DeepLearning.AI)*
+-   **Machine Learning**:
+    -   Machine Learning Specialization *(Stanford / Coursera)*
+-   **Tools & Platforms**:
+    -   Docker Foundations Professional Certificate
+    -   Azure AI Fundamental Prep
 
 ## 📫 Connect With Me
 
-- 💼 Open to collaboration on AI/ML projects
-- 🌱 Always learning and exploring cutting-edge research
-- 📧 Reach out for research discussions or project collaborations
+-   **LinkedIn**: [linkedin.com/in/hasith-vikasitha](https://www.linkedin.com/in/hasith-vikasitha/)
+-   **GitHub**: [github.com/hasithdd](https://github.com/hasithdd)
 
 ---
 
 <div align="center">
 
-*"Building intelligent systems through mathematics, statistics, and deep learning"*
+*"Building robust, intelligent systems grounded in mathematics and deployed at the edge."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hasithdd&color=blue&style=flat-square)
 
 </div>
-
-<!---
-hasithdd/hasithdd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
