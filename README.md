@@ -2,9 +2,9 @@
 
 <div align="center">
   
-[![AI/ML](https://img.shields.io/badge/AI%2FML-Engineer-blue?style=for-the-badge)](https://github.com/hasithdd)
-[![Deep Learning](https://img.shields.io/badge/Deep-Learning-red?style=for-the-badge)](https://github.com/hasithdd)
-[![Computer Vision](https://img.shields.io/badge/Computer-Vision-green?style=for-the-badge)](https://github.com/hasithdd)
+![AI/ML](https://img.shields.io/badge/AI%2FML-Engineer-blue?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep-Learning-red?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer-Vision-green?style=for-the-badge)
 
 </div>
 
@@ -15,14 +15,14 @@ Double degree holder specializing in **Artificial Intelligence** and **Machine L
 ## 🔬 Core Competencies
 
 ### Machine Learning & AI
-- **Deep Learning**: Neural Networks, CNNs, RNNs, LSTMs, Transformers
+- **Deep Learning**: Neural Networks, CNNs (Convolutional Neural Networks), RNNs (Recurrent Neural Networks), LSTMs (Long Short-Term Memory), Transformers
 - **Computer Vision**: Object Detection, Image Classification, Real-time Video Processing
 - **Natural Language Processing**: Text Generation, Language Models, Speech Processing
 - **Model Optimization**: Quantization, Pruning, Knowledge Distillation
 - **MLOps**: Model Deployment, API Development, Production Systems
 
 ### Mathematical & Statistical Foundation
-- **Linear Algebra**: Matrix Operations, Eigenvalues, SVD
+- **Linear Algebra**: Matrix Operations, Eigenvalues, SVD (Singular Value Decomposition)
 - **Calculus**: Gradient Descent, Optimization Theory
 - **Probability & Statistics**: Bayesian Inference, Hypothesis Testing, Distribution Analysis
 - **Numerical Methods**: Optimization Algorithms, Computational Statistics
