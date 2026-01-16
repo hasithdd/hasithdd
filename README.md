@@ -131,7 +131,7 @@ I'm an AI/ML Engineer with a strong academic foundation in **Mathematics, Statis
 | 🎙️ **[NeuTTS-FastAPI](https://github.com/hasithdd/NeuTTS-FastAPI)** | Dockerized FastAPI wrapper for NeuTTS with CPU ONNX & NVIDIA GPU PyTorch support | `FastAPI` `Docker` `ONNX` `TTS` |
 | 🧠 **[Research-Assistant](https://github.com/hasithdd/research-assistant))** | About
 An AI-powered tool for analyzing research papers, featuring PDF upload, structured summarization using OpenAI GPT, and RAG-based conversational Q&A powered by Qdrant vector search and sentence-transformers. Built with FastAPI (Python) backend and React (TypeScript) frontend.  | `Python` `LangChain` `RAG` `GenAI` |
-| 🎙️ **[VAD model from Scratch](https://github.com/hasithdd/VAD-Model-from-Scratch))** | Voice Activity Detection Model Trained by famous google speech commands dataset by BiLSTM Technique  | `Python` `DeepLearning` `Pytorch` `Voice AI` |
+| 🎙️ **[VAD model from Scratch](https://github.com/hasithdd/VAD-Model-from-Scratch))** | Voice Activity Detection Model Trained by famous google speech commands dataset by BiLSTM Technique  | `Python` `DeepLearning` `PyTorch` `Voice AI` |
 | 🚗 **[AI for Games](https://github.com/hasithdd/AI-for-Games))** | Advanced AI Algorithm Complexity Analysis (Time, Space, Resource) in Unity: Pathfinding Algorithms Showcase  | `AI` `Unity` `C#` `Game Development` |
 
 ---
