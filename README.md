@@ -4,9 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hasith%20Vikasitha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Generative%20AI%20Engineer%20%7C%20Research%20→%20Production%20→%20Scale&descAlignY=55&descSize=16" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=🧠+Generative+AI+Engineer;🤖+Voice+AI+%26+Edge+AI+Specialist;📐+Math+%2B+Stats+%2B+CS+—+The+Full+Stack;🚀+Building+Agentic+Systems+at+Scale;⚡+Research+→+Production+→+Impact" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=🧠+Generative+AI+Engineer;🤖+Voice+AI+%26+Edge+AI+Specialist;📐+Math+%2B+Stats+%2B+CS+—+The+Full+Stack;🚀+Building+Agentic+Systems+at+Scale;⚡+Research+→+Production+→+Impact" alt="Typing SVG" />
 
 <br/>
 
@@ -95,8 +93,8 @@ class HasithVikasitha:
 
 <br/>
 
-- 🎙️ **Voice AI Systems** — Built voice intelligence for Unitree Go2 Quadruped Robot 
-- 🔌 **Embedded / Edge AI** — Deployed AI on NVIDIA Jetson & other embedded platforms worked on **[VelloPass](https://velloai.net/vellopass/)**
+- 🎙️ **Voice AI Systems** — Built voice intelligence for Unitree Go2 Quadruped Robot
+- 🔌 **Embedded / Edge AI** — Deployed AI on NVIDIA Jetson & other embedded platforms, and worked on **[VelloPass](https://velloai.net/vellopass/)**
 - ⚡ **Model Optimization** — Optimized LLMs & deep learning models with **TensorRT** for production
 - 🔄 **Real-time MLOps** — Built real-time AI deployment pipelines for embedded systems
 
@@ -212,7 +210,7 @@ class HasithVikasitha:
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hasithdd&theme=tokyonight&border=00d9ff&ring=00d9ff&fire=FF6B6B&currStreakLabel=00d9ff&border_radius=10" height="180"/>
+<img src="https://streak-stats.demolab.com?user=hasithdd&theme=tokyonight&border=00d9ff&ring=00d9ff&fire=FF6B6B&currStreakLabel=00d9ff&border_radius=10" height="180"/>
 
 <br/>
 
