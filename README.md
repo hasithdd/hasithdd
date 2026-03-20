@@ -95,8 +95,8 @@ class HasithVikasitha:
 
 <br/>
 
-- 🎙️ **Voice AI Systems** — Built voice intelligence for Unitree Go2 Quadruped Robot & worked on **[VelloPass](https://velloai.net/vellopass/)**
-- 🔌 **Embedded / Edge AI** — Deployed AI on NVIDIA Jetson & other embedded platforms
+- 🎙️ **Voice AI Systems** — Built voice intelligence for Unitree Go2 Quadruped Robot 
+- 🔌 **Embedded / Edge AI** — Deployed AI on NVIDIA Jetson & other embedded platforms worked on **[VelloPass](https://velloai.net/vellopass/)**
 - ⚡ **Model Optimization** — Optimized LLMs & deep learning models with **TensorRT** for production
 - 🔄 **Real-time MLOps** — Built real-time AI deployment pipelines for embedded systems
 
