@@ -1,71 +1,169 @@
-<!-- Header Section with Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hasith%20V.%20Dharmarathna&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=GenAI%20Engineer%20|%20Agentic%20AI%20|%20Voice%20AI%20|%20Edge%20AI&descSize=18&descAlignY=52"/>
-
-<!-- Profile Views & Social Badges -->
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=hasithdd&style=for-the-badge&color=blueviolet)
-  
-  <br/>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasith-vikasitha)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasithdd)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasithvikasitha@gmail.com)
-  
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hasith%20Vikasitha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Generative%20AI%20Engineer%20%7C%20Research%20→%20Production%20→%20Scale&descAlignY=55&descSize=16" width="100%"/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=🧠+Generative+AI+Engineer;🤖+Voice+AI+%26+Edge+AI+Specialist;📐+Math+%2B+Stats+%2B+CS+—+The+Full+Stack;🚀+Building+Agentic+Systems+at+Scale;⚡+Research+→+Production+→+Impact" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hasith--vikasitha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasith-vikasitha)
+[![GitHub Main](https://img.shields.io/badge/GitHub-hasithdd-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasithdd)
+[![GitHub Work](https://img.shields.io/badge/GitHub-hdharmarathna-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hdharmarathna)
+[![SyncScribe](https://img.shields.io/badge/Startup-SyncScribe-6C63FF?style=for-the-badge&logo=notion&logoColor=white)](https://www.linkedin.com/company/syncscribe)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=hasithdd&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## 🧬 About Me
+
+```python
+class HasithVikasitha:
+    role        = "Generative AI Engineer"
+    focus       = ["Research", "Production", "Scale"]
+    location    = "Sri Lanka 🇱🇰"
+    
+    education   = [
+        "📐 Applied Mathematics, Statistics & CS — University of Colombo",
+        "💻 Computer Science — Informatics Institute of Technology (IIT)"
+    ]
+    
+    currently_building = "SyncScribe — Enterprise Knowledge System for Software Projects"
+    
+    passion     = "Turning cutting-edge AI research into robust, scalable production systems"
+    
+    def greet(self):
+        return "Building intelligent systems that move from research → production → scale 🚀"
+```
+
+---
+
+## 🎓 Education
+
+<table>
+<tr>
+<td width="50%">
+
+**🏛️ University of Colombo**
+> Applied Mathematics, Statistics & Computer Science
+> 
+> *Currently Pursuing*
+
+</td>
+<td width="50%">
+
+**🏛️ Informatics Institute of Technology (IIT)**
+> Computer Science
+> 
+> *Currently Pursuing*
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Professional Experience
+
+### 🧠 GenAI Engineer — AI Labs @ Mitra AI *(Current)*
+
+<details>
+<summary><b>Click to expand details</b></summary>
+
+<br/>
+
+- 🔧 **[Novolingo.AI](https://novolingo.ai)** — Legacy code modernization platform powered by GenAI
+- ⚡ **AI Full-Stack Engineer** — End-to-end AI system design & deployment
+
+</details>
+
+---
+
+### 🤖 Former Trainee AI Engineer — [Vega Innovations](https://github.com/hasithvega)
+
+<details>
+<summary><b>Click to expand details</b></summary>
+
+<br/>
+
+- 🎙️ **Voice AI Systems** — Built voice intelligence for Unitree Go2 Quadruped Robot & worked on **[VelloPass](https://velloai.net/vellopass/)**
+- 🔌 **Embedded / Edge AI** — Deployed AI on NVIDIA Jetson & other embedded platforms
+- ⚡ **Model Optimization** — Optimized LLMs & deep learning models with **TensorRT** for production
+- 🔄 **Real-time MLOps** — Built real-time AI deployment pipelines for embedded systems
+
+</details>
+
+---
+
+## 🎯 Specializations
+
+<div align="center">
+
+| Domain | Focus |
+|--------|-------|
+| 🤖 **Agentic AI Systems** | Multi-agent orchestration, tool-use pipelines, autonomous reasoning |
+| 🎙️ **Voice AI & Real-time Systems** | STT/TTS, streaming inference, low-latency audio pipelines |
+| 🔌 **Edge AI & On-Device AI** | NVIDIA Jetson, embedded optimization, resource-constrained deployment |
+| 📄 **Document Intelligence** | Agentic OCR, layout detection, production-grade RAG pipelines |
+| 🏗️ **Production AI Architectures** | Dockerized, horizontally scalable, TensorRT-optimized systems |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/hasithdd/NeuTTS-FastAPI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hasithdd&repo=NeuTTS-FastAPI&theme=tokyonight&border_color=00d9ff&border_radius=10" />
+</a>
+
 </div>
 
 <br/>
 
-<!-- Animated Typing -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7957D5&center=true&vCenter=true&random=false&width=700&lines=Building+Production-Grade+Agentic+AI+Systems+%F0%9F%A4%96;GenAI+Engineer+@+Mitra+AI+Labs;Voice+AI+%7C+Edge+AI+%7C+Fullstack+AI+Engineering;From+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0+to+Global+Scale+%F0%9F%8C%8D" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
+### 🔊 [NeuTTS-FastAPI](https://github.com/hasithdd/NeuTTS-FastAPI)
+> Dockerized FastAPI wrapper for NeuTTS TTS model — CPU ONNX + NVIDIA GPU PyTorch support with auto-stitching, inspired by KokoroTTS FastAPI.
 
 ---
 
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-I'm a **Generative AI Engineer** with a strong academic foundation in **Mathematics, Statistics, and Computer Science**, building intelligent systems that move from research → production → scale.
-
-Currently pursuing dual degrees:
-
-- 🎓 **Applied Mathematics, Statistics & CS** – University of Colombo  
-- 🎓 **Computer Science** – Informatics Institute of Technology  
-
-<br/>
-
-### 💼 Professional Experience
-
-- 🧠 **GenAI Engineer – AI Labs @ Mitra AI**  
-  - Designing and deploying **Agentic AI solutions**
-  - Building full-stack AI systems (LLMs + APIs + orchestration + infra)
-  - Developing scalable GenAI pipelines for real-world production use
-  - Focusing on reliability, latency optimization, and system design
-
-- 🤖 **Former Trainee AI Engineer @ Vega Innovations**  
-  - Built **Voice AI systems**
-  - Developed **Embedded / Edge AI solutions**
-  - Optimized models for resource-constrained environments
-  - Worked on real-time AI deployment pipelines
-
-<br clear="right"/>
+### 👁️ [DriveEye](https://github.com/hasithdd/DriveEye)
+> AI-powered driver monitoring & surveillance system for real-time road safety. Computer vision at the edge.
 
 ---
 
-## 🧠 What I Specialize In
+### 📄 [ADE — Agentic Document Extraction](https://github.com/hasithdd/ADE)
+> Production-grade FastAPI microservice for end-to-end document analysis: OCR + layout detection + agentic reasoning with multi-LLM provider support.
 
-- 🧩 **Agentic AI Systems** (Multi-agent orchestration & tool usage)
-- 🔗 **LLM Application Engineering** (RAG, memory, reasoning pipelines)
-- 🎙️ **Voice AI & Real-time Systems**
-- ⚡ **Edge AI & Embedded Optimization (NVIDIA Jetson)**
-- 🏗️ **Full-Stack AI Engineering** (Backend APIs, Vector DBs, Deployment)
-- 📦 Production-ready AI architectures (Dockerized, scalable, optimized)
+---
+
+### 🎮 [AI-for-Games](https://github.com/hasithdd/AI-for-Games)
+> Advanced AI algorithm complexity analysis (Time, Space, Resource) in Unity — Pathfinding algorithms showcase.
+
+---
+
+### 🎤 [VAD-Model-from-Scratch](https://github.com/hasithdd/VAD-Model-from-Scratch)
+> Voice Activity Detection model trained on Google Speech Commands dataset using BiLSTM architecture, built from scratch.
+
+---
+
+### 🐍 [Python_BP](https://github.com/hdharmarathna/Python_BP) *(Work Account)*
+> Open-source project for Python modern best practices using Rust-based packages. Performance meets Pythonic elegance.
+
+---
+
+### 🧠 [SyncScribe](https://www.linkedin.com/company/syncscribe) *(Currently Building)*
+> Enterprise-level centralized knowledge system for software projects. SDGP startup at IIT — bridging the gap between code, docs, and team knowledge.
 
 ---
 
@@ -73,35 +171,33 @@ Currently pursuing dual degrees:
 
 <div align="center">
 
-### 🤖 AI/ML & Deep Learning
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### 🧠 LLMs & Agentic AI
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-
-### 🚀 Edge AI & Optimization
-![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-### 💻 Backend & Fullstack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Backend & APIs**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 🗄️ Databases & Vector Stores
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
+**Edge & Embedded**
+
+![NVIDIA](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Data & Math**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
 </div>
 
@@ -110,28 +206,64 @@ Currently pursuing dual degrees:
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hasithdd&show_icons=true&count_private=true&hide_border=true&title_color=7957d5&icon_color=7957d5&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasithdd&layout=compact&hide_border=true&title_color=7957d5&text_color=c9d1d9&bg_color=0d1117" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=hasithdd&show_icons=true&theme=tokyonight&border_color=00d9ff&border_radius=10&include_all_commits=true&count_private=true&hide_border=false" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasithdd&layout=compact&theme=tokyonight&border_color=00d9ff&border_radius=10&langs_count=8" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hasithdd&theme=tokyonight&border=00d9ff&ring=00d9ff&fire=FF6B6B&currStreakLabel=00d9ff&border_radius=10" height="180"/>
+
+<br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasithdd&theme=tokyo-night&border_color=00d9ff&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
 </div>
 
 ---
 
-## 📌 Featured Projects
+## 🏆 GitHub Trophies
 
-| Project | Description | Tech |
-|:-------:|:------------|:-----|
-| 🚗 **DriveEye** | AI-powered driver monitoring & surveillance system | `Computer Vision` `Edge AI` |
-| 🎙️ **NeuTTS-FastAPI** | Dockerized FastAPI wrapper for NeuTTS with ONNX & GPU support | `FastAPI` `ONNX` `Docker` |
-| 🧠 **rag-preview** | Retrieval-Augmented Generation experimental system | `LangChain` `LLMs` `RAG` |
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hasithdd&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" width="100%"/>
+
+</div>
 
 ---
 
-## 🌱 Currently Exploring
+## 📡 Work Account Stats
 
-```text
-🧩 Multi-Agent Architectures        ███████████████░   95%
-🧠 Reasoning + Tool-Augmented LLMs  ████████████████   100%
-🎤 Real-time Conversational AI      ███████████████░   90%
-⚡ Scalable AI System Design        ██████████████░░   85%
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hdharmarathna&show_icons=true&theme=tokyonight&border_color=6C63FF&border_radius=10&include_all_commits=true&count_private=true&title_color=6C63FF&icon_color=6C63FF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdharmarathna&layout=compact&theme=tokyonight&border_color=6C63FF&border_radius=10&langs_count=8&title_color=6C63FF" height="180"/>
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 💼 **LinkedIn** | [hasith-vikasitha](https://www.linkedin.com/in/hasith-vikasitha) |
+| 🐙 **GitHub (Personal)** | [hasithdd](https://github.com/hasithdd) |
+| 🔬 **GitHub (Work)** | [hdharmarathna](https://github.com/hdharmarathna) |
+| 🏢 **Startup** | [SyncScribe](https://www.linkedin.com/company/syncscribe) |
+| 🤖 **Past Work** | [Vega Innovations](https://github.com/hasithvega) |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> *"The best way to predict the future is to build it — one model at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
